@@ -9,7 +9,7 @@
 <p align="center">
   <img alt="Members" src="https://img.shields.io/badge/members-16-1f4e79?style=flat-square">
   <img alt="Courses this semester" src="https://img.shields.io/badge/courses-5-1f4e79?style=flat-square">
-  <img alt="Repos" src="https://img.shields.io/badge/repos-39-1f4e79?style=flat-square">
+  <img alt="Repos" src="https://img.shields.io/badge/repos-38-1f4e79?style=flat-square">
   <img alt="Semester" src="https://img.shields.io/badge/semester-Fall_2026-2e7d32?style=flat-square">
   <img alt="Graduating" src="https://img.shields.io/badge/graduating-2028-b03a2e?style=flat-square">
 </p>
