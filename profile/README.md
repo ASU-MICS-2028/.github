@@ -63,80 +63,80 @@ Photos are GitHub avatars, so update yours on GitHub and it updates here. Click 
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="#adzeyena-opei"><img src="https://github.com/AdzeyenaOpei.png?size=120" width="80" alt="Adzeyena"><br><b>Adzeyena Opei</b></a><br>
-      <sub><code>AdzeyenaOpei</code></sub><br>
-      <sub>RAG &amp; full-stack web</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="#alice-iris-acquah"><img src="https://github.com/thealiceiris.png?size=120" width="80" alt="Alice"><br><b>Alice Iris Acquah</b></a><br>
+      <a href="#alice-iris-kare-acquah"><img src="https://github.com/thealiceiris.png?size=120" width="80" alt="Alice"><br><b>Alice Acquah</b></a><br>
       <sub><code>thealiceiris</code></sub><br>
       <sub>Flutter &amp; mobile</sub>
     </td>
     <td align="center" width="25%">
-      <a href="#bernard-marfo-adjei"><img src="https://github.com/adjeibernardmarfo.png?size=120" width="80" alt="Bernard"><br><b>Bernard Marfo Adjei</b></a><br>
+      <a href="#bernard-marfo-adjei"><img src="https://github.com/adjeibernardmarfo.png?size=120" width="80" alt="Bernard"><br><b>Bernard Adjei</b></a><br>
       <sub><code>adjeibernardmarfo</code></sub><br>
-      <sub>Embedded AI &amp; TinyML</sub>
+      <sub>Embedded AI &amp; graph neural nets</sub>
     </td>
     <td align="center" width="25%">
       <a href="#clifford-yeboah"><img src="https://github.com/YCliffe21.png?size=120" width="80" alt="Clifford"><br><b>Clifford Yeboah</b></a><br>
       <sub><code>YCliffe21</code></sub><br>
       <sub>Data science &amp; HCI</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="25%">
-      <a href="#elikplim-sunu"><img src="https://github.com/ElikplimSunu.png?size=120" width="80" alt="Elikplim"><br><b>Elikplim Sunu</b></a><br>
-      <sub><code>ElikplimSunu</code></sub><br>
-      <sub>Android, TV apps &amp; on-device LLMs</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="#elise-kennedy-angbo"><img src="https://github.com/Elise-Oyi.png?size=120" width="80" alt="Elise"><br><b>Elise Kennedy-Angbo</b></a><br>
+      <a href="#elise-oyilonye-kennedy-angbo"><img src="https://github.com/Elise-Oyi.png?size=120" width="80" alt="Elise"><br><b>Elise Kennedy-Angbo</b></a><br>
       <sub><code>Elise-Oyi</code></sub><br>
       <sub>Backend &amp; business systems</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%">
-      <a href="#eugene-sewor"><img src="https://github.com/eugene-sew.png?size=120" width="80" alt="Eugene"><br><b>Eugene Sewor</b></a><br>
+      <a href="#eric-sunu"><img src="https://github.com/ElikplimSunu.png?size=120" width="80" alt="Eric"><br><b>Eric Sunu</b></a><br>
+      <sub><code>ElikplimSunu</code></sub><br>
+      <sub>Android, Flutter &amp; on-device LLMs</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="#eugene-emmanuel-sewor"><img src="https://github.com/eugene-sew.png?size=120" width="80" alt="Eugene"><br><b>Eugene Sewor</b></a><br>
       <sub><code>eugene-sew</code></sub><br>
       <sub>DevOps &amp; cloud</sub>
     </td>
     <td align="center" width="25%">
-      <a href="#germain-emil-allotey-pappoe"><img src="https://github.com/germainemil1.png?size=120" width="80" alt="Germain"><br><b>Germain Emil Allotey-Pappoe</b></a><br>
+      <a href="#germain-emil-allotey-pappoe"><img src="https://github.com/germainemil1.png?size=120" width="80" alt="Germain"><br><b>Germain Allotey-Pappoe</b></a><br>
       <sub><code>germainemil1</code></sub><br>
-      <sub>Presales &amp; enterprise IT</sub>
+      <sub>Cybersecurity &amp; presales</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="#henry-kofi-brandoh"><img src="https://github.com/henryhkb.png?size=120" width="80" alt="Henry B."><br><b>Henry Kofi Brandoh</b></a><br>
+      <sub><code>henryhkb</code></sub><br>
+      <sub>Health AI &amp; full-stack</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <a href="#henry-kofi-brandoh"><img src="https://github.com/henryhkb.png?size=120" width="80" alt="Henry B."><br><b>Henry Kofi Brandoh</b></a><br>
-      <sub><code>henryhkb</code></sub><br>
-      <sub>Health AI &amp; computer vision</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="#henry-olletey"><img src="https://github.com/henryolletey.png?size=120" width="80" alt="Henry O."><br><b>Henry Olletey</b></a><br>
+      <a href="#henry-nii-amarh-olletey"><img src="https://github.com/henryolletey.png?size=120" width="80" alt="Henry O."><br><b>Henry Olletey</b></a><br>
       <sub><code>henryolletey</code></sub><br>
       <sub>Product analytics</sub>
     </td>
     <td align="center" width="25%">
-      <a href="#isaac-ansah-amoah"><img src="https://github.com/isanamoa.png?size=120" width="80" alt="Isaac"><br><b>Isaac Ansah Amoah</b></a><br>
+      <a href="#isaac-ansah-amoah"><img src="https://github.com/isanamoa.png?size=120" width="80" alt="Isaac"><br><b>Isaac Amoah</b></a><br>
       <sub><code>isanamoa</code></sub><br>
-      <sub>Front-end &amp; full-stack web</sub>
+      <sub>Public-sector IT &amp; web</sub>
     </td>
     <td align="center" width="25%">
-      <a href="#joseph-etse"><img src="https://github.com/josetseph.png?size=120" width="80" alt="Joseph"><br><b>Joseph Etse</b></a><br>
+      <a href="#joseph-delali-kodzo-etse"><img src="https://github.com/josetseph.png?size=120" width="80" alt="Joseph"><br><b>Joseph Etse</b></a><br>
       <sub><code>josetseph</code></sub><br>
       <sub>Backend, fintech &amp; knowledge graphs</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="#kobina-adzeyena-opei-junior"><img src="https://github.com/AdzeyenaOpei.png?size=120" width="80" alt="Kobina"><br><b>Kobina Opei</b></a><br>
+      <sub><code>AdzeyenaOpei</code></sub><br>
+      <sub>Data science, BI &amp; RAG</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <a href="#liza-aikins"><img src="https://github.com/lnaikins.png?size=120" width="80" alt="Liza"><br><b>Liza Aikins</b></a><br>
+      <a href="#liza-ekua-ndede-aikins"><img src="https://github.com/lnaikins.png?size=120" width="80" alt="Liza"><br><b>Liza Aikins</b></a><br>
       <sub><code>lnaikins</code></sub><br>
       <sub>Android &amp; data</sub>
     </td>
     <td align="center" width="25%">
       <a href="#micheal-boadi"><img src="https://github.com/1realMicheal.png?size=120" width="80" alt="Micheal"><br><b>Micheal Boadi</b></a><br>
       <sub><code>1realMicheal</code></sub><br>
-      <sub>Computer vision &amp; medical imaging</sub>
+      <sub>Computer vision &amp; responsible AI</sub>
     </td>
     <td align="center" width="25%">
       <a href="#mubarak-tijani"><img src="https://github.com/Xenongt1.png?size=120" width="80" alt="Mubarak"><br><b>Mubarak Tijani</b></a><br>
@@ -146,7 +146,7 @@ Photos are GitHub avatars, so update yours on GitHub and it updates here. Click 
     <td align="center" width="25%">
       <a href="#perfect-elorm-avugla"><img src="https://github.com/PeaElorm.png?size=120" width="80" alt="Perfect"><br><b>Perfect Elorm Avugla</b></a><br>
       <sub><code>PeaElorm</code></sub><br>
-      <sub>Frontend &amp; AWS</sub>
+      <sub>React Native, frontend &amp; AWS</sub>
     </td>
   </tr>
 </table>
@@ -155,74 +155,75 @@ Photos are GitHub avatars, so update yours on GitHub and it updates here. Click 
 
 ## Who we are
 
-<!-- Profiles were compiled from each person's public GitHub, personal site and professional profiles in Nov 2026.
+<!-- Profiles were compiled in Nov 2026 from each person's own LinkedIn profile, public GitHub, personal site,
+     Ashesi news features, IEEE Xplore and other public pages.
      Own your entry: open a PR against .github/profile/README.md to correct or extend it. -->
 
-Short profiles, in alphabetical order. Each of us owns our own entry; send a PR to change yours.
+Short profiles by full name, in alphabetical order of first name. Each of us owns our own entry; send a PR to change yours.
 
-### Adzeyena Opei
-<img src="https://github.com/AdzeyenaOpei.png?size=60" width="28" align="left"> &nbsp;Also known as Kobina Opei. Studied at Academic City University, Accra. Builds retrieval-augmented LLM apps and full-stack web applications in React and Node.js; his projects include a RAG assistant that answers questions over Ghana's 2020 election results and the 2025 Budget Statement.
-[GitHub](https://github.com/AdzeyenaOpei)
-
-### Alice Iris Acquah
-<img src="https://github.com/thealiceiris.png?size=60" width="28" align="left"> &nbsp;Flutter mobile developer at ShaQ Express in Accra, where she works on the company's delivery and rider apps. BSc Computer Science, GIMPA (2024). Side projects include Remembrall, an ADHD-support app, and mac-organizer, a local-LLM file organiser for macOS.
-[GitHub](https://github.com/thealiceiris) · [LinkedIn](https://www.linkedin.com/in/alice-iris-acquah-73a853189/) · [X](https://x.com/thealiceiris)
+### Alice Iris Kare Acquah
+<img src="https://github.com/thealiceiris.png?size=60" width="28" align="left"> &nbsp;Software engineer focused on mobile, cloud and DevOps. Spent a year as a Flutter developer at ShaQ Express in Accra, shipping features for its last-mile, vendor and customer apps, after earlier stints at BigData Ghana and as a networks intern at the Ghana Civil Aviation Authority. BSc Computer Science, GIMPA (2024), where she was a class rep and Data Structures TA. BecauseSheCan Outstanding Mentee (2022). Side projects include Remembrall, an ADHD-support app, and mac-organizer, a local-LLM file organiser for macOS.
+[GitHub](https://github.com/thealiceiris) · [LinkedIn](https://www.linkedin.com/in/iris-alice-kare-acquah-73a853189/) · [X](https://x.com/thealiceiris)
 
 ### Bernard Marfo Adjei
-<img src="https://github.com/adjeibernardmarfo.png?size=60" width="28" align="left"> &nbsp;Research assistant in Electrical and Electronic Engineering at KNUST, specialising in embedded AI and TinyML for autonomous sensing. Co-author of two 2026 papers in *Electrical Engineering and Energy* on physics-informed spatiotemporal graph neural networks for optimal power flow. Builds GSM/Arduino IoT sensing systems.
-[GitHub](https://github.com/adjeibernardmarfo) · [ORCID](https://orcid.org/0009-0003-6051-7781) · [LinkedIn](https://www.linkedin.com/in/bernardmarfoadjei) · <sub>also <code>bernardadjeimarfo</code></sub>
+<img src="https://github.com/adjeibernardmarfo.png?size=60" width="28" align="left"> &nbsp;Software engineer at Adaptive Computer Solutions and Mastercard Foundation Scholar in the MPhil track. Interested in running ML on resource-constrained hardware. Previously a research assistant on the KNUST Engineering Education Project, using physics-informed graph neural networks to estimate power-grid states from sparse measurements; co-author of two 2026 papers in *Electrical Engineering and Energy* on optimal power flow. BSc Electrical and Electronic Engineering, KNUST, First Class (2024). Contributor to Ghana NLP.
+[GitHub](https://github.com/adjeibernardmarfo) · [ORCID](https://orcid.org/0009-0003-6051-7781) · [LinkedIn](https://www.linkedin.com/in/bernardmarfoadjei/) · <sub>also <code>bernardadjeimarfo</code></sub>
 
 ### Clifford Yeboah
-<img src="https://github.com/YCliffe21.png?size=60" width="28" align="left"> &nbsp;BSc Management Information Systems, Ashesi University (2024). Interested in data science, machine learning and human-computer interaction. Built DeMalvertiser, an ML system for detecting malicious ads on Android, and interned at Ecobank eProcess and Mazzuma.
+<img src="https://github.com/YCliffe21.png?size=60" width="28" align="left"> &nbsp;Ashesi alumnus, BSc Management Information Systems (2024), with coursework in information security, machine learning and AI. Faculty intern at Ashesi (2024–25), leading lab and discussion sessions and supporting research, and later in programme support for the Asakheni accelerator. Interested in data science, ML and human-computer interaction; built DeMalvertiser, an ML system for detecting malicious ads on Android. Earlier internships at Ecobank eProcess and Mazzuma.
 [GitHub](https://github.com/YCliffe21) · [Site](https://ycliffe21.github.io/cliffordyeboah.github.io/) · [LinkedIn](https://www.linkedin.com/in/clifford-yeboah/)
 
-### Elikplim Sunu
-<img src="https://github.com/ElikplimSunu.png?size=60" width="28" align="left"> &nbsp;Also known as Eric Sunu. Software engineer with 3+ years building Android, Android TV and Flutter apps, now focused on running local LLMs on mobile. Open-source work includes TacitNode, an edge-to-cloud AI copilot for field technicians, and ThreatSketch, a STRIDE threat-modelling tool.
-[GitHub](https://github.com/ElikplimSunu) · [LinkedIn](https://www.linkedin.com/in/elikplimsunu) · [X](https://x.com/ElikplimSunu)
+### Elise Oyilonye Kennedy-Angbo
+<img src="https://github.com/Elise-Oyi.png?size=60" width="28" align="left"> &nbsp;Software engineer and IT Supervisor at Adansi Travels, where she replaced a spreadsheet-and-WhatsApp process with a booking platform (live since March 2026), built the API a partner bank integrates with, and designed the company's permission model. Earlier backend work at Amazin Trips and platform work at Heritors Labs. Node.js, Express, React/Next.js, TypeScript, ASP.NET and Firebase. BSc Biomedical Engineering, University of Ghana (2021), plus an HND in Computer Software Engineering. Specialising in Software Engineering.
+[GitHub](https://github.com/Elise-Oyi) · [Site](https://www.elisekennedya.com) · [LinkedIn](https://www.linkedin.com/in/elise-kennedy-angbo/)
 
-### Elise Kennedy-Angbo
-<img src="https://github.com/Elise-Oyi.png?size=60" width="28" align="left"> &nbsp;Software engineer in Accra who turns spreadsheets, paper trails and chat-based processes into software, and trains the teams that use it. Sole engineer on a travel booking platform and a partner-bank payment integration. Works across Node.js and ASP.NET backends, React/Next.js frontends and SQL/Firebase data layers.
-[GitHub](https://github.com/Elise-Oyi) · [Site](https://www.elisekennedya.com) · [LinkedIn](https://www.linkedin.com/in/elise-kennedy-angbo)
+### Eric Sunu
+<img src="https://github.com/ElikplimSunu.png?size=60" width="28" align="left"> &nbsp;Also known as Elikplim. Full-stack and mobile engineer, founding engineer at LiveSpaces since 2023, with 3+ years building Android, Android TV and Flutter apps; now focused on running local LLMs on mobile. Open-source work includes TacitNode, an edge-to-cloud AI copilot for field technicians, and ThreatSketch, a STRIDE threat-modelling tool. BSc Computer Science, KNUST (2023).
+[GitHub](https://github.com/ElikplimSunu) · [LinkedIn](https://www.linkedin.com/in/sunueric/) · [X](https://x.com/ElikplimSunu)
 
-### Eugene Sewor
-<img src="https://github.com/eugene-sew.png?size=60" width="28" align="left"> &nbsp;DevOps and cloud engineer (AWS, Terraform, Kubernetes, CI/CD) and full-stack developer, formerly Tech Lead at LIFE-MAC Africa. Builds BallotBase, an online election-management platform for Ghanaian universities and organisations, and mentors upcoming developers.
-[GitHub](https://github.com/eugene-sew) · [LinkedIn](https://www.linkedin.com/in/eugene-sewor) · [BallotBase](https://www.ballotbase.site/)
+### Eugene Emmanuel Sewor
+<img src="https://github.com/eugene-sew.png?size=60" width="28" align="left"> &nbsp;DevOps engineer and full-stack developer; AWS Certified Solutions Architect and ISO/IEC 27001:2022 Lead Auditor. Until 2026 Digital Innovation Lead at LIFE-MAC Africa in Ho, where he built Mentorlings (an offline-first AI mentorship platform serving 3,300+ learners in 32 schools) and ran the organisation's infrastructure; before that, DevOps training at AmaliTech (Terraform, zero-downtime AWS deployments) and frontend work at Atmos. Co-founder of OneHive Africa, connecting investors with rural beekeepers, and builder of BallotBase, an election-management platform. BTech IT, Ho Technical University (2025). Mentors early-career developers.
+[GitHub](https://github.com/eugene-sew) · [LinkedIn](https://www.linkedin.com/in/eugene-sewor/) · [BallotBase](https://www.ballotbase.site/)
 
 ### Germain Emil Allotey-Pappoe
-<img src="https://github.com/germainemil1.png?size=60" width="28" align="left"> &nbsp;Presales engineer at EITBS Limited, an Accra IT services company working in enterprise data protection and archiving. In class he is on the Upstream cloud team and the flood early-warning capstone.
-[GitHub](https://github.com/germainemil1)
+<img src="https://github.com/germainemil1.png?size=60" width="28" align="left"> &nbsp;IT and cybersecurity professional; presales engineer at EITBS Limited in Accra since 2024, helping organisations adopt enterprise security and data-protection solutions. Previously help-desk specialist at GETFund. BSc Information Technology, GCTU (2022). In class he is on the Upstream cloud team and the flood early-warning capstone.
+[GitHub](https://github.com/germainemil1) · [LinkedIn](https://www.linkedin.com/in/germain-emil-allotey-pappoe-8006321b6/)
 
 ### Henry Kofi Brandoh
-<img src="https://github.com/henryhkb.png?size=60" width="28" align="left"> &nbsp;Full-stack engineer and health-AI researcher. Formerly IT Manager at the National Cardiothoracic Centre, Korle Bu Teaching Hospital; founder of Orpasser, a group bus-travel and payments platform. BSc ICT, GCTU (2020). Works on ML for ECG images, maternal-risk triage and clinical LLM tools; his MPhil thesis is on pulmonary embolism risk prediction.
-[GitHub](https://github.com/henryhkb) · [Site](https://henryhkb.github.io/myprofile) · [LinkedIn](https://linkedin.com/in/henry-kofi-brandoh-2964b92a7) · [X](https://x.com/henrybranny)
+<img src="https://github.com/henryhkb.png?size=60" width="28" align="left"> &nbsp;Full-stack developer and health-AI researcher in the MPhil track. Four years as software developer and IT manager at Korle Bu Teaching Hospital (2022–26), building its correspondence-tracking system and a clinical-note analyser that turns long clinician notes into structured summaries, and running clinical and health-information systems. Also built Triage IQ, an AI triage aid for frontline staff. Founder of Orpasser, a group-travel platform with QR ticketing, SMS and MTN MoMo payments. BSc ICT, GCTU (2020). Works on ML for ECG images, maternal-risk triage and clinical LLM tools; his MPhil thesis is on pulmonary embolism risk prediction.
+[GitHub](https://github.com/henryhkb) · [Site](https://henryhkb.github.io/myprofile) · [LinkedIn](https://www.linkedin.com/in/henry-kofi-brandoh-2964b92a7/) · [X](https://x.com/henrybranny)
 
-### Henry Olletey
-<img src="https://github.com/henryolletey.png?size=60" width="28" align="left"> &nbsp;Senior Product Analyst at Zepz (Sendwave), with 5+ years in analytics, earlier in Ghana's telecommunications industry and in user research at Ashesi's Design Lab with Cobalt. Ashesi alumnus; volunteers as a maths tutor with the Berekuso Math Project.
-[GitHub](https://github.com/henryolletey) · [LinkedIn](https://www.linkedin.com/in/henryolletey)
+### Henry Nii-Amarh Olletey
+<img src="https://github.com/henryolletey.png?size=60" width="28" align="left"> &nbsp;Analytics specialist with 5+ years in product and consumer insights. Senior Product Analyst at Sendwave and then Zepz (2021–25), building payments and onboarding KPI dashboards, A/B tests and churn and segmentation models; before that a Decisions Analyst at MTN Ghana and a UX researcher with The Cobalt Partners. Returning Ashesi alumnus (BSc Computer Science, 2014) and former faculty intern in maths and statistics.
+[GitHub](https://github.com/henryolletey) · [LinkedIn](https://www.linkedin.com/in/henryolletey/)
 
 ### Isaac Ansah Amoah
-<img src="https://github.com/isanamoa.png?size=60" width="28" align="left"> &nbsp;Software engineer and data analyst focused on front-end and full-stack web development in React, Next.js and TypeScript, trained through Azubi Africa. Recent work includes the NkwaPay responsible credit-scoring service and the secure student-records portal.
-[GitHub](https://github.com/isanamoa) · [LinkedIn](https://www.linkedin.com/in/isaac-ansah-amoah-535759b0)
+<img src="https://github.com/isanamoa.png?size=60" width="28" align="left"> &nbsp;Information technology engineer in Ghana's public sector since 2008, working across software development, data analytics and cybersecurity. BSc Information Technology, GCTU (2021), and front-end training through Azubi Africa. Builds web apps in React, Next.js and TypeScript; recent class work includes the NkwaPay responsible credit-scoring service and the secure student-records portal.
+[GitHub](https://github.com/isanamoa) · [LinkedIn](https://www.linkedin.com/in/isaac-ansah-amoah-535759b0/)
 
-### Joseph Etse
-<img src="https://github.com/josetseph.png?size=60" width="28" align="left"> &nbsp;Backend engineer (Python/FastAPI) at Livecops and co-founder and CTO of Votex 365, an e-voting and e-ticketing platform in Accra. BSc Computer Science, KNUST (2023). Builds Orb, an open-source local-first app that turns notes, audio and PDFs into a searchable knowledge graph.
+### Joseph Delali Kodzo Etse
+<img src="https://github.com/josetseph.png?size=60" width="28" align="left"> &nbsp;Backend engineer (Python/FastAPI, AWS) and co-founder and CTO of Votex 365, an e-voting and e-ticketing platform in Accra; has led VoteX, VMS and FundWeave. BSc Computer Science, KNUST (2023). Builds Orb, an open-source local-first app that turns notes, audio and PDFs into a searchable knowledge graph. Class rep for the cohort.
 [GitHub](https://github.com/josetseph) · [Site](https://www.josetseph.com) · [LinkedIn](https://www.linkedin.com/in/josetseph/) · [X](https://x.com/josetseph) · [Hugging Face](https://huggingface.co/josetseph)
 
-### Liza Aikins
-<img src="https://github.com/lnaikins.png?size=60" width="28" align="left"> &nbsp;Android developer working mainly in Kotlin. In class she owns database schemas, migrations and sync for offline-first apps, and testing, RAG and evaluation for LLM-driven systems.
-[GitHub](https://github.com/lnaikins)
+### Kobina Adzeyena Opei Junior
+<img src="https://github.com/AdzeyenaOpei.png?size=60" width="28" align="left"> &nbsp;Data science and AI, specialising in the AI & Data Science concentration. BSc Computer Science, Academic City University (2026). Built FloodGuard, a machine-learning flood early-warning system for Ghana, and a RAG assistant that answers questions over Ghana's 2020 election results and the 2025 Budget Statement. Interned at GCB Bank on Power BI dashboards and its data-warehouse project.
+[GitHub](https://github.com/AdzeyenaOpei) · [LinkedIn](https://www.linkedin.com/in/kobina-opei/)
+
+### Liza Ekua Ndede Aikins
+<img src="https://github.com/lnaikins.png?size=60" width="28" align="left"> &nbsp;Android developer working mainly in Kotlin and Jetpack Compose, with web development, SQL and data visualisation alongside. Computer Science at KNUST, then national service with Kofa, the Ghanaian electric-motorbike and battery-swapping company. Completed BecauseSheCan's Mobile Engineering mentorship track, building a note-taking app and an Unsplash photo app. In class she owns database schemas, migrations and sync for offline-first apps, and testing, RAG and evaluation for LLM-driven systems.
+[GitHub](https://github.com/lnaikins) · [LinkedIn](https://www.linkedin.com/in/liza-aikins/)
 
 ### Micheal Boadi
-<img src="https://github.com/1realMicheal.png?size=60" width="28" align="left"> &nbsp;Research assistant at the Responsible AI Lab (RAIL), KNUST, and teaching assistant for the robotics and computer vision lab there. BSc Computer Engineering, KNUST, First Class (2025). Works on computer vision, skin-lesion segmentation (DPASNet), uncertainty and explainability for EEG models, and low-resource NLP.
-[GitHub](https://github.com/1realMicheal) · [Site](https://1realmicheal.github.io) · [LinkedIn](https://www.linkedin.com/in/micheal-boadi)
+<img src="https://github.com/1realMicheal.png?size=60" width="28" align="left"> &nbsp;MPhil track, interested in AI, computer vision and practical intelligent systems across hardware and software. Research assistant at the Responsible AI Lab (RAIL), KNUST, lab instructor for its Robotics & Computer Vision course, and a remote research intern with a transportation-research lab at North Dakota State University. BSc Computer Engineering, KNUST, First Class (2025); his PCB defect-detection capstone was shown at KNUST Technology Week. Works on skin-lesion segmentation (DPASNet), vision-language models for traffic safety and low-resource NLP; his paper on aligning uncertainty and explanations in EEG models was accepted at the AISB 2026 XTAI symposium.
+[GitHub](https://github.com/1realMicheal) · [Site](https://1realmicheal.github.io) · [LinkedIn](https://www.linkedin.com/in/micheal-boadi/)
 
 ### Mubarak Tijani
-<img src="https://github.com/Xenongt1.png?size=60" width="28" align="left"> &nbsp;Studied at the University of Mines and Technology, Tarkwa. Works on post-quantum cryptography (an NTT hardware accelerator in Verilog, PQC benchmarks for Ghanaian USSD), blockchain-backed decentralised VPNs, and data engineering pipelines with Airflow, Spark and Terraform.
-[GitHub](https://github.com/Xenongt1)
+<img src="https://github.com/Xenongt1.png?size=60" width="28" align="left"> &nbsp;Data engineer and quantum-computing and cryptography enthusiast from Takoradi; also a tech content creator. National service as a data engineer at AmaliTech (2025–26), after data annotation at Aya Data and frontend work at MegaMinds. BSc Computer Science, University of Mines and Technology, Tarkwa (2025). Co-author of two papers at IEEE ICSID 2026: an evidence-based assessment of migrating Ghana's banking and USSD mobile-money infrastructure to post-quantum cryptography, and the design of a blockchain-secured decentralised VPN. Also works on an NTT hardware accelerator in Verilog and data pipelines with Airflow, Spark and Terraform.
+[GitHub](https://github.com/Xenongt1) · [LinkedIn](https://www.linkedin.com/in/mubarak-tijani-900528285/) · Papers: [PQC migration](https://doi.org/10.1109/ICSID69485.2026.11779172), [decentralised VPN](https://ieeexplore.ieee.org/document/11779195)
 
 ### Perfect Elorm Avugla
-<img src="https://github.com/PeaElorm.png?size=60" width="28" align="left"> &nbsp;Frontend developer and AWS Certified Solutions Architect (2022), lead trainer with Ghana Code Club. BSc Biomedical Engineering, KNUST (2021), then a cloud career switch through Azubi Africa. Builds React/Next.js and offline-first web apps; frontend lead on AgroConnect Ghana and the SmartCity Accra citizen app.
-[GitHub](https://github.com/PeaElorm) · [Site](https://peaelorm.github.io/) · [LinkedIn](https://www.linkedin.com/in/perfect-elorm-avugla)
+<img src="https://github.com/PeaElorm.png?size=60" width="28" align="left"> &nbsp;Software engineer at Adaptive Computer Solutions, building React Native features for a consumer app with about five million active users. AWS Certified Solutions Architect via Azubi Africa, after a BSc in Biomedical Engineering at KNUST (2021). Earlier frontend roles at Exampal GH, Kayak Technology Group, a UNDP consultancy and Airban. Lead trainer at Ghana Code Club, teaching children JavaScript; mentors with BecauseSheCan and spoke on the women-in-tech panel at VTIS 2026 in the Volta Region. Frontend lead on AgroConnect Ghana and the SmartCity Accra citizen app.
+[GitHub](https://github.com/PeaElorm) · [Site](https://peaelorm.github.io/) · [LinkedIn](https://www.linkedin.com/in/perfect-elorm-avugla/)
 
 ---
 
@@ -232,21 +233,21 @@ Each course has its own teams, so everyone works with almost everyone over the s
 
 | Course | Group | Members |
 | --- | --- | --- |
-| **ICS 530** Software Engineering | Company A · [Nyansapo](https://github.com/ASU-MICS-2028/se-company-a-capstone) | Adzeyena · Elikplim · Henry B. · Joseph · Liza · Micheal |
+| **ICS 530** Software Engineering | Company A · [Nyansapo](https://github.com/ASU-MICS-2028/se-company-a-capstone) | Eric · Henry B. · Joseph · Kobina · Liza · Micheal |
 | | Company B · [Nkenten](https://github.com/ASU-MICS-2028/se-company-b-capstone) | Alice · Elise · Eugene · Germain · Henry O. · Isaac |
 | **ICS 534** Cloud Computing | Group 1 · Upstream | Bernard · Germain · Liza · Mubarak |
-| | Group 2 · Storm Surfers | Alice · Clifford · Elikplim · Henry B. · Isaac |
+| | Group 2 · Storm Surfers | Alice · Clifford · Eric · Henry B. · Isaac |
 | | Group 3 · Highlanders | Elise · Eugene · Joseph · Perfect |
 | **ICS 553** Machine Learning | Group 1 | Alice · Germain · Joseph · Liza |
 | | Group 2 | Bernard · Eugene · Henry B. · Perfect |
-| | Group 3 | Adzeyena · Clifford · Elikplim · Mubarak |
+| | Group 3 | Clifford · Eric · Kobina · Mubarak |
 | | Group 4 | Elise · Henry O. · Isaac · Micheal |
-| **ICS 554** NLP | Group 1 | Alice · Bernard · Elikplim · Joseph · Micheal |
-| | Group 2 | Adzeyena · Elise · Isaac · Perfect |
+| **ICS 554** NLP | Group 1 | Alice · Bernard · Eric · Joseph · Micheal |
+| | Group 2 | Elise · Isaac · Kobina · Perfect |
 | | Group 3 | Eugene · Henry B. · Henry O. · Liza |
 | **ICS 570** Cybersecurity | Group 1 | Elise · Eugene · Joseph · Liza |
 | | Group 2 | Alice · Germain · Isaac · Mubarak |
-| | Group 3 | Adzeyena · Clifford · Elikplim · Henry O. |
+| | Group 3 | Clifford · Eric · Henry O. · Kobina |
 | | Group 4 | Bernard · Micheal · Perfect |
 
 ---
